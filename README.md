@@ -1,0 +1,41 @@
+**Règlement de Etalande RP**
+
+Le règlement du serveur est considéré comme lu dès que le/la joueur-se rejoint le serveur. 
+
+L'administration du serveur se réserve le droit de modifier les règles inscrites à tout moment et ce sans aucun préavis.
+
+**1. Powergaming**
+Le Powergaming consiste à réaliser des actions impossibles ou irréalistes dans un contexte RP. C’est aussi forcer des actions sur d'autres joueurs sans leur laisser d'options pour réagir.
+**2. Metagaming**
+Le Metagaming est l’utilisation, par votre personnage, d’informations obtenues hors RP (comme dans un chat OOC ou un Discord). Il inclut aussi le partage d’informations IG (In-Game) avec des joueurs qui n’ont pas obtenu ces infos via des moyens RP.
+**3. Freekill**
+Tuer un autre joueur sans raison RP ou pour une raison minime est interdit. Provoquer un conflit pour déclencher un combat est également interdit. Toute montée en violence doit rester cohérente.
+
+**4. Carkill**
+Utiliser un véhicule pour tuer un joueur est interdit, quelle que soit la méthode employée.
+**6. Revenge Kill**
+Vous ne pouvez pas chercher ou tuer des joueurs qui ont participé à la mort de votre précédent personnage.
+**7. Roleplay Indécent**
+Il est interdit de jouer des scènes impliquant des actes sexuels, tortures détaillées, démembrements, cannibalisme, racisme extrême, ou tout autre contenu jugé inapproprié.
+**8. Chicken Run**
+Chicken Run est le fait de zigzaguer pour éviter les balles lorsque vous êtes sous le feu. Cette pratique est interdite.
+**9. Bunny Hopping**
+Utiliser la technique du bunny hopping (sauter en courant pour aller plus vite) est interdit. Cela contourne les mécaniques de fatigue du jeu et n’est pas réaliste.
+**11. Force RP**
+Vous ne pouvez pas forcer quelqu’un à participer à une scène qu'il ne souhaite pas jouer. Le RP doit rester amusant pour tous les joueurs.
+**12. Win RP**
+Utiliser une règle, un objet ou une action qui vous donne un avantage déloyal sur les autres joueurs est interdit. Ce comportement non fair play est sanctionné.
+
+
+**13. HRP (Hors RP)**
+Le HRP désigne tout ce qui ne concerne pas le jeu en RP. Par exemple, utiliser une information reçue via un chat en dehors du jeu pour agir en RP est interdit.
+**14. Raccourci RP**
+Ne faites pas de déductions hâtives en RP. Par exemple, ce n’est pas parce qu’une personne porte une couleur qu'elle appartient à un gang. Prenez toujours en compte la diversité des possibilités dans vos interactions RP.
+**15. AFK (Away From Keyboard)**
+Être AFK signifie que vous vous êtes éloigné de votre clavier et n'êtes plus actif. Prévenez les autres joueurs si vous devez vous absenter, et ne vous déconnectez pas ou ne restez pas AFK pour fuir une scène RP.
+**16. Cheat**
+Il est interdit d'utiliser des logiciels de triche ou des bugs pour obtenir un avantage. Toute utilisation de cheats sera sanctionnée par un bannissement définitif sans négociation.
+**17. Nom et Prénom RP**
+Il est interdit d’utiliser un nom et prénom d’une célébrité ou d'un streamer dans le jeu. Vous ne pouvez pas non plus utiliser un pseudonyme associé à une autre personnalité connue sur d'autres serveurs.
+
+**Cordialement L'équipe d’Etalande**
